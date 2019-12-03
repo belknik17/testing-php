@@ -11,6 +11,8 @@ Upload all into a sub-folder on your PHP server space.
 
 Install SimpleTest in the folder named simpletest.
 
+The folder simpletest is not in the repo since we want git to ignore it.
+
 Try out the test files in the root folder in approximately this order:
 
 calculator_test1.php - Runs code against a Calculator class.  Adds 2 numbers. 
